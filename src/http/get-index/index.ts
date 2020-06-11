@@ -19,6 +19,8 @@ let body = `
       Your <a href="https://begin.com" class="link" target="_blank">Begin</a> app is ready to go!
     </p>
 
+    <p>Got my first impression of Deno. :)</p>
+
   </body>
 </html>
 `
